@@ -1,2 +1,3 @@
 # North-Korea-IP-Addresses
-North Korea's IP address
+North Korean IP address list
+
